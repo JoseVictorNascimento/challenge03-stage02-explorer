@@ -1,6 +1,6 @@
 # Treine.me
 
-![Treineme preview](.github/app-preview.png)
+![Treineme preview](app-preview.png)
 
 O Treine.me é uma página simples desenvolvida dentro do programa Explorer da Rocketseat com o intuito de treinar tags semânticas e acessibilidade com HTML e CSS.
 
